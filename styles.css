@@ -49,6 +49,13 @@ h2 {
     width: 100%;
 }
 
+.project-card h2{
+    display: flex;
+    text-align: center;
+    border-bottom: 1px dashed #2d3436;
+    margin-bottom: 10px;
+}
+
 .project-card {
     background: white;
     padding: 20px;
