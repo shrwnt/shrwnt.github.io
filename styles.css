@@ -113,6 +113,12 @@ h2 {
     color: #0984e3;
     text-decoration: none;
     font-weight: bold;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.project-card a:hover {
+    color: #0652DD;
+    transform: translateX(5px);
 }
 
 /* Footer */
