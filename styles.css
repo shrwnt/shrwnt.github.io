@@ -46,6 +46,7 @@ h2 {
     display: inline-block;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 55px;
+    width: 100%;
 }
 
 .project-card {
